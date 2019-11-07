@@ -1,0 +1,22 @@
+{
+  "name": "mulo-loader",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mulo",
+    "loader",
+    "罗戚洪"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mulo-loader-compiler": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+}
